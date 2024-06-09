@@ -4,7 +4,7 @@ import re
 import random
 
 # Configure the generative AI model
-genai.configure(api_key="AIzaSyBSW7znT-UMBm2wfD5qHXEmA23gpkkYamo")
+genai.configure(api_key="Your API Key")
 
 # Set up the model generation configuration and safety settings
 generation_config = {
